@@ -14,7 +14,7 @@ Before you begin, you should already have the Xcode downloaded and set up correc
 
 1. Download the I-am-single project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it. OR
 
-```$ git clone https://github.com/aguisset/Dice-Roll/blob/master/docs/screen-1.png```
+```$ git clone https://github.com/aguisset/Dice-Roll.git```
 
 2. Navigate to the unzipped folder and open How I Feel in Valentines Day.xcodeproj from the folder.
 
@@ -24,7 +24,7 @@ Before you begin, you should already have the Xcode downloaded and set up correc
 
 Here is an example of the end results:
 
-![app screen shot]()
+![app screen shot](https://github.com/aguisset/Dice-Roll/blob/master/docs/screen-1.png)
 
 ## Built With
 
