@@ -1,6 +1,6 @@
 # Las Vegas Dice Roll
 
-Introductory iOS project following tutorial by Angela Yu. The goal is to create a simple app that will simulate the roll of a dice.
+Introductory iOS project following tutorial by Angela Bauer. The goal is to create a simple app that will simulate the roll of a dice.
 
 
 ## Getting started
@@ -40,7 +40,7 @@ I use [Git](https://git-scm.com/) for versioning on my machine
 **Abdoul Guisset** 
 
 ## Contributors
-* **Angela Yu @AppBrewery**: starting squeleton
+* **Angela Bauer @AppBrewery**: starting squeleton
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
