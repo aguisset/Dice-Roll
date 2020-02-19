@@ -1,31 +1,45 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Las Vegas Dice Roll
 
-# Dicee
-
-## Our Goal
-
-The objective of this tutorial is to introduce you to the core programming concepts that will form the foundation of most of the apps you’ll build in the future. This app will teach you a lot of important programming knowledge, while building a neat dice app.
-
-## What you will create
-
-We’re going to make a Las Vegas dice app. You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!
+Introductory iOS project. The goal is to create a simple app that will simulate the roll of a dice.
 
 
-## What you will learn
+## Getting started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-* How to clone an existing Xcode project from GitHub.
-* Create an app with behaviour and functionality.
-* Create links between the Interface Builder files and code using IBActions and IBOutlets.
-* Get familiar with the Xcode code editor.
-* * Learn to use comments to annotate code.
-* Understand and use Swift constants and variables.
-* Understand and use collection types such as Swift arrays.
-* Test and debug your app with the Xcode console.
-* Learn about randomisation and how to generate random numbers in Swift.
+### Prerequisites
+
+Before you begin, you should already have the Xcode downloaded and set up correctly. Follow this guide to know how to do this here: [Setting up Xcode](https://developer.apple.com/xcode/)
+
+### Installing
+
+1. Download the I-am-single project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it. OR
+
+```$ git clone https://github.com/aguisset/Dice-Roll.git```
+
+2. Navigate to the unzipped folder and open How I Feel in Valentines Day.xcodeproj from the folder.
+
+3. Build the project (⌘+B) and check for any errors.
+
+4. Run the app (⌘+R).and test it.
+
+Here is an example of the end results:
+
+![app screen shot]()
+
+## Built With
+
+* [Xcode](https://developer.apple.com/xcode/) - The IDE used to build iOS application.
 
 
+## Versioning
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+I use [Git](https://git-scm.com/) for versioning on my machine
 
-![End Banner](Documentation/readme-end-banner.png)
+## Authors
 
+* **Abdoul Guisset** 
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
