@@ -1,6 +1,6 @@
 # Las Vegas Dice Roll
 
-Introductory iOS project. The goal is to create a simple app that will simulate the roll of a dice.
+Introductory iOS project following tutorial by Angela Yu. The goal is to create a simple app that will simulate the roll of a dice.
 
 
 ## Getting started
@@ -14,7 +14,7 @@ Before you begin, you should already have the Xcode downloaded and set up correc
 
 1. Download the I-am-single project source. You can do this either by forking and cloning the repository (recommended if you plan on pushing changes) or by downloading it as a ZIP file and extracting it. OR
 
-```$ git clone https://github.com/aguisset/Dice-Roll.git```
+```$ git clone https://github.com/aguisset/Dice-Roll/blob/master/docs/screen-1.png```
 
 2. Navigate to the unzipped folder and open How I Feel in Valentines Day.xcodeproj from the folder.
 
@@ -37,9 +37,10 @@ I use [Git](https://git-scm.com/) for versioning on my machine
 
 ## Authors
 
-* **Abdoul Guisset** 
+**Abdoul Guisset** 
 
-
+## Contributors
+* **Angela Yu @AppBrewery**: starting squeleton
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
